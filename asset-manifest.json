@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/remoteselling/static/css/main.c957b71e.chunk.css",
-    "main.js": "/remoteselling/static/js/main.66d3a67b.chunk.js",
-    "main.js.map": "/remoteselling/static/js/main.66d3a67b.chunk.js.map",
+    "main.css": "/remoteselling/static/css/main.2702267a.chunk.css",
+    "main.js": "/remoteselling/static/js/main.f4b62fdd.chunk.js",
+    "main.js.map": "/remoteselling/static/js/main.f4b62fdd.chunk.js.map",
     "runtime-main.js": "/remoteselling/static/js/runtime-main.16beaedf.js",
     "runtime-main.js.map": "/remoteselling/static/js/runtime-main.16beaedf.js.map",
     "static/js/2.03388bab.chunk.js": "/remoteselling/static/js/2.03388bab.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8cbf8297.chunk.js": "/remoteselling/static/js/3.8cbf8297.chunk.js",
     "static/js/3.8cbf8297.chunk.js.map": "/remoteselling/static/js/3.8cbf8297.chunk.js.map",
     "index.html": "/remoteselling/index.html",
-    "static/css/main.c957b71e.chunk.css.map": "/remoteselling/static/css/main.c957b71e.chunk.css.map",
+    "static/css/main.2702267a.chunk.css.map": "/remoteselling/static/css/main.2702267a.chunk.css.map",
     "static/js/2.03388bab.chunk.js.LICENSE.txt": "/remoteselling/static/js/2.03388bab.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/remoteselling/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.16beaedf.js",
     "static/js/2.03388bab.chunk.js",
-    "static/css/main.c957b71e.chunk.css",
-    "static/js/main.66d3a67b.chunk.js"
+    "static/css/main.2702267a.chunk.css",
+    "static/js/main.f4b62fdd.chunk.js"
   ]
 }
